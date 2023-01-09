@@ -8,7 +8,7 @@ variable "testing_frequency" {}
 
 variable "slack_channel_name" {}
 
-
+variable "tags" {}
 
 
 
